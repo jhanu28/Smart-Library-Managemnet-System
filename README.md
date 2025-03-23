@@ -61,8 +61,7 @@ Follow these steps to set up the project on your local machine:
 - Visit the website and log in with your credentials.
 - Browse available books and filter them by category.
 - Edit your profile and change your password as needed.
-## 📧 Contact
-For any questions or support, please reach out to me at athukoralaharith@gmail.com.
+
 ## 📸 ScreenShot 
 ### Library Management System
 <table style="border-collapse: non;">
@@ -132,30 +131,3 @@ For any questions or support, please reach out to me at athukoralaharith@gmail.c
   </tr>
 </table>
 
-### Website 
-
-<table>
-  <tr>
-    <th>Login</th>
-    <th>Profile Update</th>
-  </tr>
-  <tr>
-    <th>
-      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/login%20web.png">
-    </th>
-    <th>
-      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/Profile%20update%20web.png">
-    </th>
-  </tr>
-  <tr>
-    <th colspan = 2>Dashboard</th>
-  </tr>
-  <tr>
-    <th>
-      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/dashboard%20web%201.png">
-    </th>
-    <th>
-      <img src="https://github.com/Athukorala99/SmartLibrary/blob/master/screenshot/dashboard%20web%202.png">
-    </th>
-  </tr>
-</table>
